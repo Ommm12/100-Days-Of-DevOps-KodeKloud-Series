@@ -6,13 +6,9 @@
 
 <br>
 
-[![Challenge](https://img.shields.io/badge/Challenge-100DaysOfDevOps-blue?style=for-the-badge&logo=dev.to)]
-[![Progress](https://img.shields.io/badge/Progress-100%2F100-success?style=for-the-badge&logo=checkmarx)]
-[![Platform](https://img.shields.io/badge/Platform-KodeKloud-orange?style=for-the-badge&logo=kubernetes)]
-[![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)]
-[![Automation](https://img.shields.io/badge/Automation-Ansible-red?style=for-the-badge&logo=ansible)]
-[![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws)]
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]
+![Days Completed](https://img.shields.io/badge/Days%20Completed-100%2F100-brightgreen?style=for-the-badge&logo=checkmarx)
+![Platform](https://img.shields.io/badge/Platform-KodeKloud-orange?style=for-the-badge&logo=kubernetes)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 <br>
 
